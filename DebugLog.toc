@@ -1,5 +1,7 @@
 ## Interface: 11200
 ## Title: DebugLog
 ## Notes: Silent error and event logger for debugging
+## Author: GabHST
+## Version: 1.0.0
 ## SavedVariables: DebugLogDB
 DebugLog.lua

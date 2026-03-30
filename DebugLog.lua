@@ -1,6 +1,7 @@
--- DebugLog: Extensive silent logger for all addon debugging
--- Logs: Lua errors, VG events, pfQuest arrow, addon loads, combat events
--- Read at: WTF/Account/GABHST/SavedVariables/DebugLog.lua
+-- DebugLog: Silent internal logger (no user-facing messages)
+-- All output goes to: WTF/Account/GABHST/SavedVariables/DebugLog.lua
+
+local DEBUGLOG_VERSION = GetAddOnMetadata("DebugLog", "Version") or "?"
 
 DebugLogDB = DebugLogDB or {}
 DebugLogDB.errors = DebugLogDB.errors or {}
