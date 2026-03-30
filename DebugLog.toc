@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: DebugLog
+## Notes: Silent error and event logger for debugging
+## SavedVariables: DebugLogDB
+DebugLog.lua
