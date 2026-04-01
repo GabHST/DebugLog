@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/GabHST/DebugLog/releases/download/v1.3.0/DebugLog-v1.3.0.zip">
+  <a href="https://github.com/GabHST/DebugLog/releases/download/v1.3.0/DebugLog.zip">
     <img src="https://img.shields.io/badge/%E2%AC%87%20Download-DebugLog_v1.3.0-2ea44f?style=for-the-badge" alt="Download">
   </a>
 </p>
