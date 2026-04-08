@@ -45,12 +45,19 @@ DebugLog silently captures all Lua errors, quest events, target changes, and add
 
 ## Installation
 
+1. Download `DebugLog.zip` from the [Releases](https://github.com/GabHST/DebugLog/releases) page (or use the button above).
+2. Extract the **DebugLog** folder into your `WoW/Interface/AddOns/` directory.
+3. Play normally. Read logs at: `WTF/Account/<name>/SavedVariables/DebugLog.lua`
+
+Your final folder structure should look like this:
+
 ```
-1. Download the ZIP (button above)
-2. Extract "DebugLog" folder into: WoW/Interface/AddOns/
-3. Play normally
-4. Read logs at: WTF/Account/<name>/SavedVariables/DebugLog.lua
+Interface/AddOns/DebugLog/
+├── DebugLog.lua
+└── DebugLog.toc
 ```
+
+> **Do NOT use the green "Code" button or download "Source code (zip)" from GitHub.** These create a nested folder (e.g. `DebugLog-main/DebugLog/...`) that WoW won't recognize. Always download from the **Releases** page.
 
 ---
 
