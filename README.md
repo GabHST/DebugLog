@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/WoW-1.12.1_Vanilla-yellow" alt="WoW">
     <img src="https://img.shields.io/badge/mode-100%25_silent-gray" alt="Silent">
     <img src="https://img.shields.io/github/downloads/GabHST/DebugLog/total?color=purple&label=downloads" alt="Downloads">
+    <a href="https://github.com/GabHST/DebugLog/stargazers"><img src="https://img.shields.io/github/stars/GabHST/DebugLog?style=flat&color=orange" alt="Stars"></a>
   </p>
 </p>
 
